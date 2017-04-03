@@ -1,0 +1,79 @@
+.required{
+    color: red;
+}
+
+.tip{
+    color: red;
+    font-size: 10pt;
+    padding: 10px 0px 0px 0px;
+}
+
+.container-fluid{
+    backface-visibility: visible;
+    background: #1F8A70;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+.row div{
+    margin-top: 0px;
+    height: auto;
+}
+
+h1{
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    opacity: 0.95;
+    margin: 30px 30px 30px 30px;
+    background: white;
+    border-radius: 5px; 
+}
+
+h6{
+    margin-bottom: 0px;
+}
+h5{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+h2{
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
+
+a {color: white;}
+
+.title{
+    background: #293541;
+    opacity: 1;
+    border-radius: 5px 5px 0px 0px;
+}
+
+p{
+    font-size: 16pt;
+    padding: 30px 30px 30px 30px; 
+}
+
+.input-group {
+    padding: 0px 30px 30px 30px;
+    border-radius: 5px;
+    background: white;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn{
+    border: 1.3px solid #B52417;
+}
